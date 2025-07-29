@@ -12,10 +12,10 @@ The medical robotics group is a muldisciplinary team dedicated to the developmen
 
 ## Encuéntranos en:
 [![YouTube](https://img.shields.io/badge/YouTube-Medical_Robotics_UMH-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=101010)](https://youtube.com/@grupoinvestigacionnbio3463)
-[![Twitter](https://img.shields.io/badge/Twitter-@MedRobotics_UMH-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=101010)](https://twitter.com/medrobotics_UMH)
+[![Twitter](https://img.shields.io/badge/X-@MedRobotics_UMH-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=101010)](https://twitter.com/medrobotics_UMH)
 [![Instagram](https://img.shields.io/badge/Instagram-@MedRobotics_UMH-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=101010)](https://instagram.com/MedRobotics_UMH)
 
 
 # Algunos proyectos del grupo
-#### _1."Generador 3D de trayectorias libres de colisiones para un manipulador UR3e con pinza blanda"_:[![GitHub](https://img.shields.io/badge/GitHub-UR3Project-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/sebastian775/UR3Project)
+#### _1."Generador 3D de trayectorias libres de colisiones para un manipulador UR3e con pinza blanda"_   [![GitHub](https://img.shields.io/badge/GitHub-UR3Project-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/sebastian775/UR3Project)
 
