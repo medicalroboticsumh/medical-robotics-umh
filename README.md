@@ -9,7 +9,6 @@ We are part of the [nBio Biomedical Neuroengineering research group](http://nbio
 
 The medical robotics group is a muldisciplinary team dedicated to the development of robotic technology in the field of health and surgery. Experts in the development of wearable electronics for monitoring biometric parameters and in the application of artificial intelligence (AI) techniques for early diagnosis of pathologies and / or the improvement of quality of life of users. In the field of robotic surgery we work on the development of new intra-operative medical imaging systems, based on RF and US, for application to imaging-guided robotic surgery. 
 
-<div>
 
 >[!TIP]
 >“El verdadero progreso es el que pone la tecnología al alcance de todos”. Henry Ford (1863-1947)
