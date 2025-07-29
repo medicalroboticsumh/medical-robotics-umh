@@ -17,4 +17,4 @@ The medical robotics group is a muldisciplinary team dedicated to the developmen
 
 
 # Algunos proyectos del grupo
-##### _"Generador 3D de trayectorias libres de colisiones para un manipulador UR3e con pinza blanda"_: (https://allvectorlogo.com/img/2021/12/github-logo-vector.png) [![Github](https://github.com/sebastian775/UR3Project)
+##### _ 1."Generador 3D de trayectorias libres de colisiones para un manipulador UR3e con pinza blanda"_: [![GitHub](https://img.shields.io/badge/GitHub-NombreDelRepo-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=101010)] (https://github.com/sebastian775/UR3Project)(https://github.com/Usuario/NombreDelRepo)
