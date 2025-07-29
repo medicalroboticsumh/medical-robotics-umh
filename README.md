@@ -3,7 +3,7 @@
 
 ![https://github.com/medical-robotics_umh](./mru_github_profile.png)
 
-<div text-align:justify>
+<div align="justify">
 
 We are part of the [nBio Biomedical Neuroengineering research group](http://nbio.umh.es) of the [Miguel Hernández University of Elche](https://www.umh.es), and we are focused on the use of technology to improve the quality of life. Investigating and developing applications that are useful for people, and that have the potential to be transferred to society, is in our DNA.
 
@@ -21,7 +21,4 @@ The medical robotics group is a muldisciplinary team dedicated to the developmen
 
 
 # Algunos proyectos del grupo
-<div text-align:justify>
-<h5> _Montenegro-Bravo, J. S., Ruiz-Flórez, J. D., Romero-Ante, J. D., Manrique-Córdoba, J., Albán, O. A. V., & Sabater-Navarro, J. M. (2024). Generador 3D de trayectorias libres de colisiones para un manipulador UR3e con pinza blanda. Revista Iberoamericana de Automática e Informática industrial, 21(1), 52-61_ </h5>   [![GitHub](https://img.shields.io/badge/GitHub-UR3Project-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/sebastian775/UR3Project)
-
-</div>
+**_Montenegro-Bravo, J. S., Ruiz-Flórez, J. D., Romero-Ante, J. D., Manrique-Córdoba, J., Albán, O. A. V., & Sabater-Navarro, J. M. (2024). Generador 3D de trayectorias libres de colisiones para un manipulador UR3e con pinza blanda. Revista Iberoamericana de Automática e Informática industrial, 21(1), 52-61_**  [![GitHub](https://img.shields.io/badge/GitHub-UR3Project-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/sebastian775/UR3Project)
