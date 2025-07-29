@@ -19,4 +19,4 @@ The medical robotics group is a muldisciplinary team dedicated to the developmen
 
 # Algunos proyectos del grupo
   
-##### _Montenegro-Bravo, J. S., Ruiz-Flórez, J. D., Romero-Ante, J. D., Manrique-Córdoba, J., Albán, O. A. V., & Sabater-Navarro, J. M. (2024). Generador 3D de trayectorias libres de colisiones para un manipulador UR3e con pinza blanda. Revista Iberoamericana de Automática e Informática industrial, 21(1), 52-61_   [![GitHub](https://img.shields.io/badge/GitHub-UR3Project-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/sebastian775/UR3Project)
+##### _Montenegro-Bravo, J. S., Ruiz-Flórez, J. D., Romero-Ante, J. D., Manrique-Córdoba, J., Albán, O. A. V., & Sabater-Navarro, J. M. (2024). Generador 3D de trayectorias libres de colisiones para un manipulador UR3e con pinza blanda. Revista Iberoamericana de Automática e Informática industrial, 21(1), 52-61_    [![GitHub](https://img.shields.io/badge/GitHub-UR3Project-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/sebastian775/UR3Project)
